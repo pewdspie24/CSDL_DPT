@@ -18,16 +18,18 @@ df = pd.read_csv("metadata.csv")
 with open("metadata.csv", "r+") as f:
     all_file = f.readlines()
     for idx, text_file in enumerate(all_file):
+        if idx == 0:
+            continue
         file_ele = text_file.split(",")
         print(file_ele)
         if file_ele[0] in a:
             stt.append(str(file_ele[0]) + ".txt")
-            line_2 = df.values[idx][2]
+            line_2 = df.values[idx - 1][2]
             # line_2 = file_ele[2].translate({ord(c): None for c in '"'})
             years.append(line_2)
-            line = df.values[idx][3]
+            line = df.values[idx - 1][3]
             title.append(line)
-            # print(text_file)
+            print(text_file)
 
 dict = {"filename": stt, "years": years, "title": title}
 
