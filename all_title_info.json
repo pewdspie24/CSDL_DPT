@@ -1,0 +1,2398 @@
+[
+    {
+        "name": "1.txt",
+        "words_counting": {
+            "edgar": 4,
+            "formidable": 1,
+            "hoover": 83,
+            "made": 7,
+            "politics": 5,
+            "publicity": 6,
+            "result": 5
+        },
+        "total_count": 111,
+        "TF_scores": {
+            "edgar": 0.0013722126929674098,
+            "formidable": 0.00034305317324185246,
+            "hoover": 0.028473413379073758,
+            "made": 0.0024013722126929675,
+            "politics": 0.0017152658662092624,
+            "publicity": 0.002058319039451115,
+            "result": 0.0017152658662092624
+        }
+    },
+    {
+        "name": "2.txt",
+        "words_counting": {
+            "capital": 1,
+            "dead": 1,
+            "dirksen": 47,
+            "seventy": 4,
+            "three": 14
+        },
+        "total_count": 67,
+        "TF_scores": {
+            "capital": 0.0004492362982929021,
+            "dead": 0.0004492362982929021,
+            "dirksen": 0.021114106019766397,
+            "seventy": 0.0017969451931716084,
+            "three": 0.006289308176100629
+        }
+    },
+    {
+        "name": "3.txt",
+        "words_counting": {
+            "dead": 1,
+            "house": 39,
+            "rayburn": 60,
+            "served": 3,
+            "seventeen": 3,
+            "speaker": 31,
+            "year": 24
+        },
+        "total_count": 161,
+        "TF_scores": {
+            "dead": 0.00038446751249519417,
+            "house": 0.014994232987312572,
+            "rayburn": 0.02306805074971165,
+            "served": 0.0011534025374855825,
+            "seventeen": 0.0011534025374855825,
+            "speaker": 0.011918492887351018,
+            "year": 0.00922722029988466
+        }
+    },
+    {
+        "name": "4.txt",
+        "words_counting": {
+            "37th": 1,
+            "decade": 4,
+            "president": 30,
+            "three": 9
+        },
+        "total_count": 44,
+        "TF_scores": {
+            "37th": 0.0002317497103128621,
+            "decade": 0.0009269988412514484,
+            "president": 0.006952491309385863,
+            "three": 0.002085747392815759
+        }
+    },
+    {
+        "name": "5.txt",
+        "words_counting": {
+            "albert": 4,
+            "dies": 1,
+            "hospital": 18,
+            "ninety": 5,
+            "schweitzer": 49
+        },
+        "total_count": 77,
+        "TF_scores": {
+            "albert": 0.0016025641025641025,
+            "dies": 0.00040064102564102563,
+            "hospital": 0.007211538461538462,
+            "ninety": 0.002003205128205128,
+            "schweitzer": 0.019631410256410256
+        }
+    },
+    {
+        "name": "6.txt",
+        "words_counting": {
+            "drive": 3,
+            "jr": 4,
+            "justice": 3,
+            "king": 54,
+            "leader": 1,
+            "luther": 7,
+            "martin": 8,
+            "million": 5,
+            "nonviolent": 3,
+            "racial": 8
+        },
+        "total_count": 96,
+        "TF_scores": {
+            "drive": 0.0014499758337361043,
+            "jr": 0.0019333011116481392,
+            "justice": 0.0014499758337361043,
+            "king": 0.02609956500724988,
+            "leader": 0.0004833252779120348,
+            "luther": 0.0033832769453842437,
+            "martin": 0.0038666022232962784,
+            "million": 0.002416626389560174,
+            "nonviolent": 0.0014499758337361043,
+            "racial": 0.0038666022232962784
+        }
+    },
+    {
+        "name": "7.txt",
+        "words_counting": {
+            "excelled": 1,
+            "federal": 5,
+            "post": 5,
+            "vinson": 27
+        },
+        "total_count": 38,
+        "TF_scores": {
+            "excelled": 0.0005530973451327434,
+            "federal": 0.0027654867256637168,
+            "post": 0.0027654867256637168,
+            "vinson": 0.014933628318584071
+        }
+    },
+    {
+        "name": "8.txt",
+        "words_counting": {
+            "army": 23,
+            "back": 1,
+            "brigade": 3,
+            "commander": 10,
+            "japan": 16,
+            "led": 1,
+            "turned": 1,
+            "war": 27,
+            "world": 9
+        },
+        "total_count": 91,
+        "TF_scores": {
+            "army": 0.005978684689368339,
+            "back": 0.0002599428125812321,
+            "brigade": 0.0007798284377436964,
+            "commander": 0.0025994281258123215,
+            "japan": 0.004159085001299714,
+            "led": 0.0002599428125812321,
+            "turned": 0.0002599428125812321,
+            "war": 0.0070184559396932675,
+            "world": 0.002339485313231089
+        }
+    },
+    {
+        "name": "9.txt",
+        "words_counting": {
+            "arthur": 2,
+            "dies": 1,
+            "five": 10,
+            "geneva": 2,
+            "ninety": 5,
+            "rubinstein": 43
+        },
+        "total_count": 63,
+        "TF_scores": {
+            "arthur": 0.0010368066355624676,
+            "dies": 0.0005184033177812338,
+            "five": 0.005184033177812338,
+            "geneva": 0.0010368066355624676,
+            "ninety": 0.002592016588906169,
+            "rubinstein": 0.022291342664593053
+        }
+    },
+    {
+        "name": "10.txt",
+        "words_counting": {
+            "career": 5,
+            "illustrious": 1,
+            "mkinleys": 1,
+            "president": 10
+        },
+        "total_count": 17,
+        "TF_scores": {
+            "career": 0.002720348204570185,
+            "illustrious": 0.000544069640914037,
+            "mkinleys": 0.000544069640914037,
+            "president": 0.00544069640914037
+        }
+    },
+    {
+        "name": "11.txt",
+        "words_counting": {
+            "black": 27,
+            "dies": 1,
+            "first": 13,
+            "jackie": 11,
+            "league": 13,
+            "major": 6,
+            "robinson": 34
+        },
+        "total_count": 105,
+        "TF_scores": {
+            "black": 0.015544041450777202,
+            "dies": 0.0005757052389176742,
+            "first": 0.007484168105929764,
+            "jackie": 0.0063327576280944155,
+            "league": 0.007484168105929764,
+            "major": 0.0034542314335060447,
+            "robinson": 0.01957397812320092
+        }
+    },
+    {
+        "name": "12.txt",
+        "words_counting": {
+            "across": 1,
+            "atlantic": 5,
+            "attainable": 2,
+            "attained": 2,
+            "daring": 2,
+            "flight": 21,
+            "historic": 1,
+            "lindbergh": 75
+        },
+        "total_count": 109,
+        "TF_scores": {
+            "across": 0.000267022696929239,
+            "atlantic": 0.0013351134846461949,
+            "attainable": 0.000534045393858478,
+            "attained": 0.000534045393858478,
+            "daring": 0.000534045393858478,
+            "flight": 0.005607476635514018,
+            "historic": 0.000267022696929239,
+            "lindbergh": 0.020026702269692925
+        }
+    },
+    {
+        "name": "13.txt",
+        "words_counting": {
+            "adlai": 5,
+            "articulate": 4,
+            "diplomat": 3,
+            "ewing": 3,
+            "politician": 4,
+            "stevenson": 59,
+            "urbane": 2,
+            "witty": 2
+        },
+        "total_count": 82,
+        "TF_scores": {
+            "adlai": 0.001920860545524395,
+            "articulate": 0.001536688436419516,
+            "diplomat": 0.001152516327314637,
+            "ewing": 0.001152516327314637,
+            "politician": 0.001536688436419516,
+            "stevenson": 0.02266615443718786,
+            "urbane": 0.000768344218209758,
+            "witty": 0.000768344218209758
+        }
+    },
+    {
+        "name": "14.txt",
+        "words_counting": {
+            "babe": 50,
+            "baseball": 41,
+            "bizarre": 2,
+            "career": 6,
+            "children": 3,
+            "dramatic": 3,
+            "great": 17,
+            "idol": 3,
+            "ruth": 61,
+            "star": 5
+        },
+        "total_count": 191,
+        "TF_scores": {
+            "babe": 0.014501160092807424,
+            "baseball": 0.011890951276102088,
+            "bizarre": 0.000580046403712297,
+            "career": 0.0017401392111368909,
+            "children": 0.0008700696055684454,
+            "dramatic": 0.0008700696055684454,
+            "great": 0.004930394431554524,
+            "idol": 0.0008700696055684454,
+            "ruth": 0.01769141531322506,
+            "star": 0.0014501160092807424
+        }
+    },
+    {
+        "name": "15.txt",
+        "words_counting": {
+            "death": 9,
+            "douglass": 48,
+            "fred": 4
+        },
+        "total_count": 61,
+        "TF_scores": {
+            "death": 0.005545286506469501,
+            "douglass": 0.029574861367837338,
+            "fred": 0.0024645717806531116
+        }
+    },
+    {
+        "name": "16.txt",
+        "words_counting": {
+            "ducted": 1,
+            "dulles": 83,
+            "foreign": 21,
+            "formulated": 1,
+            "policy": 17,
+            "six": 11,
+            "year": 17
+        },
+        "total_count": 151,
+        "TF_scores": {
+            "ducted": 0.00036258158085569254,
+            "dulles": 0.03009427121102248,
+            "foreign": 0.007614213197969543,
+            "formulated": 0.00036258158085569254,
+            "policy": 0.006163886874546773,
+            "six": 0.003988397389412618,
+            "year": 0.006163886874546773
+        }
+    },
+    {
+        "name": "17.txt",
+        "words_counting": {
+            "black": 78,
+            "court": 63,
+            "dies": 1,
+            "eighty": 5,
+            "five": 6,
+            "four": 6,
+            "justice": 59,
+            "served": 2,
+            "thirty": 12,
+            "year": 28
+        },
+        "total_count": 260,
+        "TF_scores": {
+            "black": 0.022968197879858657,
+            "court": 0.018551236749116608,
+            "dies": 0.0002944640753828033,
+            "eighty": 0.0014723203769140165,
+            "five": 0.0017667844522968198,
+            "four": 0.0017667844522968198,
+            "justice": 0.017373380447585393,
+            "served": 0.0005889281507656066,
+            "thirty": 0.0035335689045936395,
+            "year": 0.008244994110718492
+        }
+    },
+    {
+        "name": "18.txt",
+        "words_counting": {
+            "chemist": 7,
+            "dies": 1,
+            "linus": 14,
+            "ninety": 2,
+            "pauling": 50,
+            "peace": 14,
+            "three": 8,
+            "voice": 1
+        },
+        "total_count": 97,
+        "TF_scores": {
+            "chemist": 0.0037373198077949813,
+            "dies": 0.0005339028296849973,
+            "linus": 0.007474639615589963,
+            "ninety": 0.0010678056593699946,
+            "pauling": 0.026695141484249868,
+            "peace": 0.007474639615589963,
+            "three": 0.004271222637479978,
+            "voice": 0.0005339028296849973
+        }
+    },
+    {
+        "name": "19.txt",
+        "words_counting": {
+            "assassination": 1,
+            "israel": 13,
+            "israeli": 16,
+            "minister": 17,
+            "peacemaker": 1,
+            "prime": 11,
+            "rabin": 45,
+            "seventy": 7,
+            "soldier": 6,
+            "three": 11,
+            "turned": 6,
+            "yitzhak": 3
+        },
+        "total_count": 137,
+        "TF_scores": {
+            "assassination": 0.0005691519635742744,
+            "israel": 0.007398975526465566,
+            "israeli": 0.00910643141718839,
+            "minister": 0.009675583380762664,
+            "peacemaker": 0.0005691519635742744,
+            "prime": 0.006260671599317018,
+            "rabin": 0.025611838360842343,
+            "seventy": 0.00398406374501992,
+            "soldier": 0.003414911781445646,
+            "three": 0.006260671599317018,
+            "turned": 0.003414911781445646,
+            "yitzhak": 0.001707455890722823
+        }
+    },
+    {
+        "name": "20.txt",
+        "words_counting": {
+            "adolph": 22,
+            "dead": 2,
+            "eight": 65,
+            "hundred": 132,
+            "ninety": 33,
+            "ochs": 117,
+            "one": 168,
+            "publisher": 39,
+            "seven": 13,
+            "seventy": 16,
+            "since": 8,
+            "six": 30,
+            "thousand": 135,
+            "time": 196
+        },
+        "total_count": 976,
+        "TF_scores": {
+            "adolph": 0.0027103609708020206,
+            "dead": 0.00024639645189109276,
+            "eight": 0.008007884686460515,
+            "hundred": 0.016262165824812123,
+            "ninety": 0.004065541456203031,
+            "ochs": 0.014414192435628926,
+            "one": 0.02069730195885179,
+            "publisher": 0.004804730811876309,
+            "seven": 0.001601576937292103,
+            "seventy": 0.001971171615128742,
+            "since": 0.000985585807564371,
+            "six": 0.0036959467783663916,
+            "thousand": 0.016631760502648762,
+            "time": 0.02414685228532709
+        }
+    },
+    {
+        "name": "21.txt",
+        "words_counting": {
+            "albert": 6,
+            "dies": 1,
+            "dr": 22,
+            "einstein": 28,
+            "great": 4,
+            "loss": 1,
+            "mourn": 1,
+            "scientist": 4,
+            "seventy": 2,
+            "six": 4,
+            "sleep": 1,
+            "world": 19
+        },
+        "total_count": 93,
+        "TF_scores": {
+            "albert": 0.0034227039361095267,
+            "dies": 0.0005704506560182544,
+            "dr": 0.012549914432401598,
+            "einstein": 0.015972618368511125,
+            "great": 0.0022818026240730175,
+            "loss": 0.0005704506560182544,
+            "mourn": 0.0005704506560182544,
+            "scientist": 0.0022818026240730175,
+            "seventy": 0.0011409013120365088,
+            "six": 0.0022818026240730175,
+            "sleep": 0.0005704506560182544,
+            "world": 0.010838562464346835
+        }
+    },
+    {
+        "name": "22.txt",
+        "words_counting": {
+            "cleveland": 45,
+            "dead": 1,
+            "mr": 33,
+            "one": 49,
+            "seventy": 6
+        },
+        "total_count": 134,
+        "TF_scores": {
+            "cleveland": 0.02292409577177789,
+            "dead": 0.0005094243504839531,
+            "mr": 0.016811003565970453,
+            "one": 0.024961793173713703,
+            "seventy": 0.003056546102903719
+        }
+    },
+    {
+        "name": "23.txt",
+        "words_counting": {
+            "change": 7,
+            "court": 84,
+            "dead": 2,
+            "earl": 5,
+            "eighty": 1,
+            "high": 5,
+            "led": 5,
+            "social": 6,
+            "three": 14,
+            "time": 13,
+            "vast": 1,
+            "warren": 108
+        },
+        "total_count": 251,
+        "TF_scores": {
+            "change": 0.0018087855297157622,
+            "court": 0.021705426356589147,
+            "dead": 0.0005167958656330749,
+            "earl": 0.0012919896640826874,
+            "eighty": 0.00025839793281653745,
+            "high": 0.0012919896640826874,
+            "led": 0.0012919896640826874,
+            "social": 0.0015503875968992248,
+            "three": 0.0036175710594315244,
+            "time": 0.003359173126614987,
+            "vast": 0.00025839793281653745,
+            "warren": 0.027906976744186046
+        }
+    },
+    {
+        "name": "24.txt",
+        "words_counting": {
+            "creator": 1,
+            "dies": 1,
+            "eight": 9,
+            "empire": 2,
+            "henry": 4,
+            "life": 19,
+            "luce": 57,
+            "magazine": 27,
+            "phoenix": 2,
+            "sixty": 12,
+            "time": 37
+        },
+        "total_count": 171,
+        "TF_scores": {
+            "creator": 0.0004572473708276177,
+            "dies": 0.0004572473708276177,
+            "eight": 0.00411522633744856,
+            "empire": 0.0009144947416552355,
+            "henry": 0.001828989483310471,
+            "life": 0.008687700045724738,
+            "luce": 0.02606310013717421,
+            "magazine": 0.012345679012345678,
+            "phoenix": 0.0009144947416552355,
+            "sixty": 0.0054869684499314125,
+            "time": 0.016918152720621856
+        }
+    },
+    {
+        "name": "25.txt",
+        "words_counting": {
+            "dies": 1,
+            "joseph": 32,
+            "pulitzer": 70,
+            "sudden": 1
+        },
+        "total_count": 104,
+        "TF_scores": {
+            "dies": 0.00026164311878597594,
+            "joseph": 0.00837257980115123,
+            "pulitzer": 0.018315018315018316,
+            "sudden": 0.00026164311878597594
+        }
+    },
+    {
+        "name": "26.txt",
+        "words_counting": {
+            "acheson": 53,
+            "advocate": 1,
+            "architect": 1,
+            "containment": 3,
+            "policy": 17,
+            "postwar": 3,
+            "soviet": 17,
+            "union": 8
+        },
+        "total_count": 103,
+        "TF_scores": {
+            "acheson": 0.022543598468736707,
+            "advocate": 0.0004253509145044662,
+            "architect": 0.0004253509145044662,
+            "containment": 0.0012760527435133986,
+            "policy": 0.007230965546575925,
+            "postwar": 0.0012760527435133986,
+            "soviet": 0.007230965546575925,
+            "union": 0.0034028073160357296
+        }
+    },
+    {
+        "name": "27.txt",
+        "words_counting": {
+            "beckett": 27,
+            "changed": 2,
+            "dead": 2,
+            "eighty": 6,
+            "godot": 21,
+            "samuel": 6,
+            "theater": 6,
+            "three": 6
+        },
+        "total_count": 76,
+        "TF_scores": {
+            "beckett": 0.013953488372093023,
+            "changed": 0.0010335917312661498,
+            "dead": 0.0010335917312661498,
+            "eighty": 0.0031007751937984496,
+            "godot": 0.010852713178294573,
+            "samuel": 0.0031007751937984496,
+            "theater": 0.0031007751937984496,
+            "three": 0.0031007751937984496
+        }
+    },
+    {
+        "name": "28.txt",
+        "words_counting": {
+            "dead": 1,
+            "labor": 15,
+            "philip": 10,
+            "pioneer": 1,
+            "randolph": 48,
+            "rights": 8
+        },
+        "total_count": 83,
+        "TF_scores": {
+            "dead": 0.0005753739930955121,
+            "labor": 0.00863060989643268,
+            "philip": 0.005753739930955121,
+            "pioneer": 0.0005753739930955121,
+            "randolph": 0.02761795166858458,
+            "rights": 0.004602991944764097
+        }
+    },
+    {
+        "name": "29.txt",
+        "words_counting": {
+            "cage": 1,
+            "chaplins": 23,
+            "enthrall": 2,
+            "everyman": 4,
+            "gild": 1,
+            "life": 15,
+            "little": 17,
+            "tramp": 14,
+            "trying": 1,
+            "world": 10
+        },
+        "total_count": 88,
+        "TF_scores": {
+            "cage": 0.0003448275862068965,
+            "chaplins": 0.007931034482758621,
+            "enthrall": 0.000689655172413793,
+            "everyman": 0.001379310344827586,
+            "gild": 0.0003448275862068965,
+            "life": 0.005172413793103448,
+            "little": 0.0058620689655172415,
+            "tramp": 0.004827586206896552,
+            "trying": 0.0003448275862068965,
+            "world": 0.0034482758620689655
+        }
+    },
+    {
+        "name": "30.txt",
+        "words_counting": {
+            "brought": 3,
+            "dimension": 2,
+            "downfall": 2,
+            "human": 2,
+            "khrushchevs": 18,
+            "power": 6
+        },
+        "total_count": 33,
+        "TF_scores": {
+            "brought": 0.0007666751852798365,
+            "dimension": 0.0005111167901865576,
+            "downfall": 0.0005111167901865576,
+            "human": 0.0005111167901865576,
+            "khrushchevs": 0.004600051111679018,
+            "power": 0.001533350370559673
+        }
+    },
+    {
+        "name": "31.txt",
+        "words_counting": {
+            "chicago": 8,
+            "clarence": 7,
+            "darrow": 29,
+            "dead": 1
+        },
+        "total_count": 45,
+        "TF_scores": {
+            "chicago": 0.005069708491761723,
+            "clarence": 0.004435994930291508,
+            "darrow": 0.018377693282636248,
+            "dead": 0.0006337135614702154
+        }
+    },
+    {
+        "name": "32.txt",
+        "words_counting": {
+            "fought": 1,
+            "history": 8,
+            "hitler": 159,
+            "modern": 2,
+            "power": 30,
+            "unique": 1,
+            "way": 3
+        },
+        "total_count": 204,
+        "TF_scores": {
+            "fought": 0.00013635124079629124,
+            "history": 0.00109080992637033,
+            "hitler": 0.021679847286610307,
+            "modern": 0.0002727024815925825,
+            "power": 0.004090537223888737,
+            "unique": 0.00013635124079629124,
+            "way": 0.00040905372238887375
+        }
+    },
+    {
+        "name": "33.txt",
+        "words_counting": {
+            "atom": 3,
+            "bomb": 25,
+            "dies": 1,
+            "oppenheimer": 68,
+            "pioneer": 2,
+            "robert": 7
+        },
+        "total_count": 106,
+        "TF_scores": {
+            "atom": 0.0010111223458038423,
+            "bomb": 0.008426019548365353,
+            "dies": 0.0003370407819346141,
+            "oppenheimer": 0.022918773171553757,
+            "pioneer": 0.0006740815638692282,
+            "robert": 0.0023592854735422987
+        }
+    },
+    {
+        "name": "34.txt",
+        "words_counting": {
+            "broadcaster": 1,
+            "chief": 3,
+            "dies": 1,
+            "edward": 6,
+            "ex": 1,
+            "murrow": 58
+        },
+        "total_count": 70,
+        "TF_scores": {
+            "broadcaster": 0.0004302925989672978,
+            "chief": 0.0012908777969018934,
+            "dies": 0.0004302925989672978,
+            "edward": 0.0025817555938037868,
+            "ex": 0.0004302925989672978,
+            "murrow": 0.02495697074010327
+        }
+    },
+    {
+        "name": "35.txt",
+        "words_counting": {
+            "career": 5,
+            "soldier": 28
+        },
+        "total_count": 33,
+        "TF_scores": {
+            "career": 0.00023560456130430684,
+            "soldier": 0.0013193855433041185
+        }
+    },
+    {
+        "name": "36.txt",
+        "words_counting": {
+            "benjamin": 4,
+            "dies": 1,
+            "four": 11,
+            "ninety": 15,
+            "pediatrician": 9,
+            "spock": 44,
+            "world": 4
+        },
+        "total_count": 88,
+        "TF_scores": {
+            "benjamin": 0.001668752607425949,
+            "dies": 0.00041718815185648727,
+            "four": 0.00458906967042136,
+            "ninety": 0.006257822277847309,
+            "pediatrician": 0.0037546933667083854,
+            "spock": 0.01835627868168544,
+            "world": 0.001668752607425949
+        }
+    },
+    {
+        "name": "37.txt",
+        "words_counting": {
+            "acceptance": 1,
+            "arab": 11,
+            "goal": 1,
+            "golda": 13,
+            "meir": 28,
+            "peace": 13,
+            "premier": 1,
+            "year": 19
+        },
+        "total_count": 87,
+        "TF_scores": {
+            "acceptance": 0.0003727171077152441,
+            "arab": 0.004099888184867686,
+            "goal": 0.0003727171077152441,
+            "golda": 0.004845322400298174,
+            "meir": 0.010436079016026835,
+            "peace": 0.004845322400298174,
+            "premier": 0.0003727171077152441,
+            "year": 0.007081625046589639
+        }
+    },
+    {
+        "name": "38.txt",
+        "words_counting": {
+            "dead": 1,
+            "film": 23,
+            "innovator": 1,
+            "orson": 7,
+            "seventy": 6,
+            "stage": 7,
+            "welles": 43
+        },
+        "total_count": 88,
+        "TF_scores": {
+            "dead": 0.000544069640914037,
+            "film": 0.012513601741022852,
+            "innovator": 0.000544069640914037,
+            "orson": 0.003808487486398259,
+            "seventy": 0.003264417845484222,
+            "stage": 0.003808487486398259,
+            "welles": 0.023394994559303592
+        }
+    },
+    {
+        "name": "39.txt",
+        "words_counting": {
+            "decisive": 1,
+            "harry": 14,
+            "president": 63,
+            "truman": 134
+        },
+        "total_count": 212,
+        "TF_scores": {
+            "decisive": 0.00016663889351774705,
+            "harry": 0.0023329445092484585,
+            "president": 0.010498250291618064,
+            "truman": 0.022329611731378103
+        }
+    },
+    {
+        "name": "40.txt",
+        "words_counting": {
+            "dance": 47,
+            "dies": 1,
+            "graham": 63,
+            "martha": 8,
+            "ninety": 3,
+            "revolutionary": 2,
+            "six": 8
+        },
+        "total_count": 132,
+        "TF_scores": {
+            "dance": 0.026903262736119062,
+            "dies": 0.0005724098454493417,
+            "graham": 0.03606182026330853,
+            "martha": 0.0045792787635947334,
+            "ninety": 0.0017172295363480253,
+            "revolutionary": 0.0011448196908986834,
+            "six": 0.0045792787635947334
+        }
+    },
+    {
+        "name": "41.txt",
+        "words_counting": {
+            "chicago": 13,
+            "daley": 38,
+            "dies": 1,
+            "four": 10,
+            "mayor": 42,
+            "richard": 11,
+            "seventy": 8
+        },
+        "total_count": 123,
+        "TF_scores": {
+            "chicago": 0.0072585147962032385,
+            "daley": 0.02121719709659408,
+            "dies": 0.0005583472920156337,
+            "four": 0.005583472920156337,
+            "mayor": 0.023450586264656615,
+            "richard": 0.006141820212171971,
+            "seventy": 0.00446677833612507
+        }
+    },
+    {
+        "name": "42.txt",
+        "words_counting": {
+            "blend": 2,
+            "chi": 7,
+            "communism": 4,
+            "ho": 78,
+            "minh": 7,
+            "nationalism": 3,
+            "noted": 1,
+            "success": 3
+        },
+        "total_count": 105,
+        "TF_scores": {
+            "blend": 0.0007530120481927711,
+            "chi": 0.0026355421686746986,
+            "communism": 0.0015060240963855422,
+            "ho": 0.029367469879518073,
+            "minh": 0.0026355421686746986,
+            "nationalism": 0.0011295180722891566,
+            "noted": 0.00037650602409638556,
+            "success": 0.0011295180722891566
+        }
+    },
+    {
+        "name": "43.txt",
+        "words_counting": {
+            "andrei": 7,
+            "dies": 1,
+            "eight": 11,
+            "sakharov": 61,
+            "science": 13,
+            "sixty": 12,
+            "soviet": 56
+        },
+        "total_count": 161,
+        "TF_scores": {
+            "andrei": 0.00258493353028065,
+            "dies": 0.00036927621861152144,
+            "eight": 0.004062038404726735,
+            "sakharov": 0.022525849335302807,
+            "science": 0.0048005908419497785,
+            "sixty": 0.004431314623338257,
+            "soviet": 0.0206794682422452
+        }
+    },
+    {
+        "name": "44.txt",
+        "words_counting": {
+            "alfred": 10,
+            "dead": 1,
+            "jr": 4,
+            "leader": 2,
+            "ninety": 5,
+            "philanthropist": 1,
+            "sloan": 53
+        },
+        "total_count": 76,
+        "TF_scores": {
+            "alfred": 0.004970178926441352,
+            "dead": 0.0004970178926441351,
+            "jr": 0.0019880715705765406,
+            "leader": 0.0009940357852882703,
+            "ninety": 0.002485089463220676,
+            "philanthropist": 0.0004970178926441351,
+            "sloan": 0.026341948310139165
+        }
+    },
+    {
+        "name": "45.txt",
+        "words_counting": {
+            "english": 34,
+            "history": 12,
+            "long": 22,
+            "reign": 49
+        },
+        "total_count": 117,
+        "TF_scores": {
+            "english": 0.003629764065335753,
+            "history": 0.0012810931995302659,
+            "long": 0.0023486708658054874,
+            "reign": 0.005231130564748585
+        }
+    },
+    {
+        "name": "46.txt",
+        "words_counting": {
+            "benny": 17,
+            "dead": 1,
+            "goodman": 71,
+            "king": 9,
+            "swing": 14
+        },
+        "total_count": 112,
+        "TF_scores": {
+            "benny": 0.006573859242072699,
+            "dead": 0.0003866976024748647,
+            "goodman": 0.02745552977571539,
+            "king": 0.0034802784222737818,
+            "swing": 0.005413766434648105
+        }
+    },
+    {
+        "name": "47.txt",
+        "words_counting": {
+            "allen": 7,
+            "beat": 11,
+            "dies": 1,
+            "generation": 6,
+            "ginsberg": 35,
+            "master": 2,
+            "poet": 20,
+            "seventy": 4
+        },
+        "total_count": 86,
+        "TF_scores": {
+            "allen": 0.00389321468298109,
+            "beat": 0.006117908787541713,
+            "dies": 0.0005561735261401557,
+            "generation": 0.0033370411568409346,
+            "ginsberg": 0.01946607341490545,
+            "master": 0.0011123470522803114,
+            "poet": 0.011123470522803115,
+            "seventy": 0.002224694104560623
+        }
+    },
+    {
+        "name": "48.txt",
+        "words_counting": {
+            "dies": 1,
+            "eighty": 19,
+            "film": 9,
+            "five": 11,
+            "jessica": 6,
+            "patrician": 1,
+            "star": 5,
+            "tandy": 22,
+            "theater": 22
+        },
+        "total_count": 96,
+        "TF_scores": {
+            "dies": 0.000564334085778781,
+            "eighty": 0.01072234762979684,
+            "film": 0.005079006772009029,
+            "five": 0.006207674943566591,
+            "jessica": 0.003386004514672686,
+            "patrician": 0.000564334085778781,
+            "star": 0.0028216704288939053,
+            "tandy": 0.012415349887133182,
+            "theater": 0.012415349887133182
+        }
+    },
+    {
+        "name": "49.txt",
+        "words_counting": {
+            "built": 2,
+            "career": 2,
+            "dash": 2,
+            "egypt": 7,
+            "end": 3,
+            "invasion": 6,
+            "style": 1
+        },
+        "total_count": 23,
+        "TF_scores": {
+            "built": 0.0009583133684714902,
+            "career": 0.0009583133684714902,
+            "dash": 0.0009583133684714902,
+            "egypt": 0.0033540967896502154,
+            "end": 0.0014374700527072352,
+            "invasion": 0.0028749401054144704,
+            "style": 0.0004791566842357451
+        }
+    },
+    {
+        "name": "50.txt",
+        "words_counting": {
+            "composer": 36,
+            "dead": 1,
+            "eight": 17,
+            "eighty": 3,
+            "igor": 8,
+            "stravinsky": 66
+        },
+        "total_count": 131,
+        "TF_scores": {
+            "composer": 0.012935680919870643,
+            "dead": 0.00035932446999640676,
+            "eight": 0.006108515989938915,
+            "eighty": 0.0010779734099892202,
+            "igor": 0.002874595759971254,
+            "stravinsky": 0.023715415019762844
+        }
+    },
+    {
+        "name": "51.txt",
+        "words_counting": {
+            "author": 2,
+            "dies": 1,
+            "hellman": 40,
+            "lillian": 4,
+            "playwright": 4,
+            "rebel": 3,
+            "seven": 3,
+            "seventy": 7
+        },
+        "total_count": 64,
+        "TF_scores": {
+            "author": 0.0010770059235325794,
+            "dies": 0.0005385029617662897,
+            "hellman": 0.021540118470651588,
+            "lillian": 0.002154011847065159,
+            "playwright": 0.002154011847065159,
+            "rebel": 0.0016155088852988692,
+            "seven": 0.0016155088852988692,
+            "seventy": 0.003769520732364028
+        }
+    },
+    {
+        "name": "52.txt",
+        "words_counting": {
+            "dies": 1,
+            "eighty": 6,
+            "helen": 18,
+            "keller": 43,
+            "seven": 8
+        },
+        "total_count": 76,
+        "TF_scores": {
+            "dies": 0.00044583147570218456,
+            "eighty": 0.0026749888542131075,
+            "helen": 0.008024966562639322,
+            "keller": 0.019170753455193937,
+            "seven": 0.0035666518056174765
+        }
+    },
+    {
+        "name": "53.txt",
+        "words_counting": {
+            "age": 1,
+            "broadways": 1,
+            "composer": 7,
+            "dead": 1,
+            "renown": 2,
+            "richard": 6,
+            "rodgers": 53,
+            "seven": 5,
+            "seventy": 13
+        },
+        "total_count": 89,
+        "TF_scores": {
+            "age": 0.000473260766682442,
+            "broadways": 0.000473260766682442,
+            "composer": 0.003312825366777094,
+            "dead": 0.000473260766682442,
+            "renown": 0.000946521533364884,
+            "richard": 0.002839564600094652,
+            "rodgers": 0.025082820634169428,
+            "seven": 0.00236630383341221,
+            "seventy": 0.006152389966871746
+        }
+    },
+    {
+        "name": "54.txt",
+        "words_counting": {
+            "civil": 8,
+            "dies": 1,
+            "eighty": 5,
+            "four": 7,
+            "hero": 1,
+            "marshall": 47,
+            "rights": 8,
+            "thurgood": 11
+        },
+        "total_count": 88,
+        "TF_scores": {
+            "civil": 0.0035460992907801418,
+            "dies": 0.0004432624113475177,
+            "eighty": 0.002216312056737589,
+            "four": 0.0031028368794326243,
+            "hero": 0.0004432624113475177,
+            "marshall": 0.020833333333333332,
+            "rights": 0.0035460992907801418,
+            "thurgood": 0.004875886524822695
+        }
+    },
+    {
+        "name": "55.txt",
+        "words_counting": {
+            "cohan": 44,
+            "dies": 1,
+            "four": 9,
+            "george": 14,
+            "home": 4,
+            "sixty": 4
+        },
+        "total_count": 76,
+        "TF_scores": {
+            "cohan": 0.02085308056872038,
+            "dies": 0.00047393364928909954,
+            "four": 0.0042654028436018955,
+            "george": 0.006635071090047393,
+            "home": 0.0018957345971563982,
+            "sixty": 0.0018957345971563982
+        }
+    },
+    {
+        "name": "56.txt",
+        "words_counting": {
+            "calvin": 18,
+            "career": 5,
+            "coolidge": 49,
+            "defeated": 1,
+            "never": 10,
+            "office": 20,
+            "political": 7,
+            "usual": 5
+        },
+        "total_count": 115,
+        "TF_scores": {
+            "calvin": 0.005972130059721301,
+            "career": 0.0016589250165892503,
+            "coolidge": 0.01625746516257465,
+            "defeated": 0.00033178500331785003,
+            "never": 0.0033178500331785005,
+            "office": 0.006635700066357001,
+            "political": 0.00232249502322495,
+            "usual": 0.0016589250165892503
+        }
+    },
+    {
+        "name": "57.txt",
+        "words_counting": {
+            "dead": 2,
+            "great": 17,
+            "showman": 8
+        },
+        "total_count": 27,
+        "TF_scores": {
+            "dead": 0.0006071645415907711,
+            "great": 0.0051608986035215545,
+            "showman": 0.0024286581663630845
+        }
+    },
+    {
+        "name": "58.txt",
+        "words_counting": {
+            "amass": 2,
+            "era": 5,
+            "financier": 1,
+            "fortune": 8,
+            "individualism": 2,
+            "industrial": 5,
+            "oil": 64,
+            "rugged": 2
+        },
+        "total_count": 89,
+        "TF_scores": {
+            "amass": 0.000500751126690035,
+            "era": 0.0012518778167250877,
+            "financier": 0.0002503755633450175,
+            "fortune": 0.00200300450676014,
+            "individualism": 0.000500751126690035,
+            "industrial": 0.0012518778167250877,
+            "oil": 0.01602403605408112,
+            "rugged": 0.000500751126690035
+        }
+    },
+    {
+        "name": "59.txt",
+        "words_counting": {
+            "dies": 1,
+            "hassan": 16,
+            "ii": 6,
+            "monarch": 1,
+            "morocco": 18,
+            "orient": 3,
+            "seventy": 10,
+            "west": 4
+        },
+        "total_count": 59,
+        "TF_scores": {
+            "dies": 0.0005537098560354374,
+            "hassan": 0.008859357696566999,
+            "ii": 0.0033222591362126247,
+            "monarch": 0.0005537098560354374,
+            "morocco": 0.009966777408637873,
+            "orient": 0.0016611295681063123,
+            "seventy": 0.005537098560354375,
+            "west": 0.0022148394241417496
+        }
+    },
+    {
+        "name": "60.txt",
+        "words_counting": {
+            "andrei": 8,
+            "diplomacy": 1,
+            "face": 1,
+            "flinty": 1,
+            "gromyko": 43,
+            "postwar": 3,
+            "soviet": 41
+        },
+        "total_count": 98,
+        "TF_scores": {
+            "andrei": 0.004303388918773534,
+            "diplomacy": 0.0005379236148466917,
+            "face": 0.0005379236148466917,
+            "flinty": 0.0005379236148466917,
+            "gromyko": 0.023130715438407747,
+            "postwar": 0.0016137708445400753,
+            "soviet": 0.022054868208714364
+        }
+    },
+    {
+        "name": "61.txt",
+        "words_counting": {
+            "dies": 1,
+            "eighty": 2,
+            "ethiopia": 21,
+            "haile": 39,
+            "selassie": 32,
+            "three": 8
+        },
+        "total_count": 103,
+        "TF_scores": {
+            "dies": 0.00041407867494824016,
+            "eighty": 0.0008281573498964803,
+            "ethiopia": 0.008695652173913044,
+            "haile": 0.016149068322981366,
+            "selassie": 0.013250517598343685,
+            "three": 0.0033126293995859213
+        }
+    },
+    {
+        "name": "62.txt",
+        "words_counting": {
+            "balfour": 39,
+            "century": 4,
+            "half": 4,
+            "leader": 2
+        },
+        "total_count": 49,
+        "TF_scores": {
+            "balfour": 0.021799888205701508,
+            "century": 0.0022358859698155395,
+            "half": 0.0022358859698155395,
+            "leader": 0.0011179429849077697
+        }
+    },
+    {
+        "name": "63.txt",
+        "words_counting": {
+            "cancer": 2,
+            "death": 8,
+            "dies": 1,
+            "first": 5,
+            "four": 9,
+            "jacqueline": 15,
+            "kennedy": 62,
+            "lady": 2,
+            "onassis": 32,
+            "sixty": 21
+        },
+        "total_count": 157,
+        "TF_scores": {
+            "cancer": 0.0005950609937518596,
+            "death": 0.0023802439750074383,
+            "dies": 0.0002975304968759298,
+            "first": 0.001487652484379649,
+            "four": 0.002677774471883368,
+            "jacqueline": 0.0044629574531389465,
+            "kennedy": 0.018446890806307646,
+            "lady": 0.0005950609937518596,
+            "onassis": 0.009520975900029753,
+            "sixty": 0.006248140434394526
+        }
+    },
+    {
+        "name": "64.txt",
+        "words_counting": {
+            "dead": 1,
+            "dearborn": 7,
+            "eighty": 8,
+            "ford": 114,
+            "henry": 7,
+            "three": 14
+        },
+        "total_count": 151,
+        "TF_scores": {
+            "dead": 0.0003071253071253071,
+            "dearborn": 0.00214987714987715,
+            "eighty": 0.002457002457002457,
+            "ford": 0.03501228501228501,
+            "henry": 0.00214987714987715,
+            "three": 0.0042997542997543
+        }
+    },
+    {
+        "name": "65.txt",
+        "words_counting": {
+            "ernie": 33,
+            "fired": 2,
+            "foe": 1,
+            "ie": 8,
+            "island": 9,
+            "kill": 10,
+            "pyle": 37,
+            "safe": 1,
+            "seem": 2
+        },
+        "total_count": 103,
+        "TF_scores": {
+            "ernie": 0.017732401934443847,
+            "fired": 0.0010746910263299302,
+            "foe": 0.0005373455131649651,
+            "ie": 0.004298764105319721,
+            "island": 0.004836109618484685,
+            "kill": 0.0053734551316496505,
+            "pyle": 0.019881783987103708,
+            "safe": 0.0005373455131649651,
+            "seem": 0.0010746910263299302
+        }
+    },
+    {
+        "name": "66.txt",
+        "words_counting": {
+            "armstrong": 61,
+            "dies": 1,
+            "jazz": 28,
+            "louis": 14,
+            "singer": 3,
+            "trumpeter": 4
+        },
+        "total_count": 111,
+        "TF_scores": {
+            "armstrong": 0.026707530647985988,
+            "dies": 0.00043782837127845885,
+            "jazz": 0.012259194395796848,
+            "louis": 0.006129597197898424,
+            "singer": 0.0013134851138353765,
+            "trumpeter": 0.0017513134851138354
+        }
+    },
+    {
+        "name": "67.txt",
+        "words_counting": {
+            "bunche": 34,
+            "dies": 1,
+            "dr": 35,
+            "nobel": 4,
+            "winner": 2
+        },
+        "total_count": 76,
+        "TF_scores": {
+            "bunche": 0.01834862385321101,
+            "dies": 0.0005396654074473826,
+            "dr": 0.018888289260658393,
+            "nobel": 0.0021586616297895305,
+            "winner": 0.0010793308148947653
+        }
+    },
+    {
+        "name": "68.txt",
+        "words_counting": {
+            "became": 10,
+            "begin": 54,
+            "guerrilla": 3,
+            "leader": 6,
+            "menachem": 5,
+            "peacemaker": 1
+        },
+        "total_count": 79,
+        "TF_scores": {
+            "became": 0.004458314757021846,
+            "begin": 0.024074899687917966,
+            "guerrilla": 0.0013374944271065537,
+            "leader": 0.0026749888542131075,
+            "menachem": 0.002229157378510923,
+            "peacemaker": 0.00044583147570218456
+        }
+    },
+    {
+        "name": "69.txt",
+        "words_counting": {
+            "capitalist": 5,
+            "china": 56,
+            "deng": 138,
+            "political": 21,
+            "put": 2,
+            "road": 4,
+            "wizard": 1,
+            "xiaoping": 7
+        },
+        "total_count": 234,
+        "TF_scores": {
+            "capitalist": 0.0011924636298592892,
+            "china": 0.01335559265442404,
+            "deng": 0.03291199618411639,
+            "political": 0.005008347245409015,
+            "put": 0.0004769854519437157,
+            "road": 0.0009539709038874314,
+            "wizard": 0.00023849272597185786,
+            "xiaoping": 0.001669449081803005
+        }
+    },
+    {
+        "name": "70.txt",
+        "words_counting": {
+            "bernstein": 67,
+            "dies": 1,
+            "leonard": 7,
+            "monarch": 1,
+            "music": 35,
+            "seventy": 8,
+            "two": 13
+        },
+        "total_count": 132,
+        "TF_scores": {
+            "bernstein": 0.024205202312138727,
+            "dies": 0.000361271676300578,
+            "leonard": 0.0025289017341040463,
+            "monarch": 0.000361271676300578,
+            "music": 0.012644508670520232,
+            "seventy": 0.002890173410404624,
+            "two": 0.004696531791907515
+        }
+    },
+    {
+        "name": "71.txt",
+        "words_counting": {
+            "dead": 1,
+            "eighty": 14,
+            "five": 18,
+            "gentle": 1,
+            "new": 51,
+            "shawn": 55,
+            "spot": 1,
+            "william": 2,
+            "yorker": 39
+        },
+        "total_count": 182,
+        "TF_scores": {
+            "dead": 0.0005327650506126798,
+            "eighty": 0.007458710708577517,
+            "five": 0.009589770911028236,
+            "gentle": 0.0005327650506126798,
+            "new": 0.02717101758124667,
+            "shawn": 0.02930207778369739,
+            "spot": 0.0005327650506126798,
+            "william": 0.0010655301012253596,
+            "yorker": 0.02077783697389451
+        }
+    },
+    {
+        "name": "72.txt",
+        "words_counting": {
+            "cage": 55,
+            "dies": 1,
+            "enchant": 1,
+            "john": 7,
+            "minimalist": 2,
+            "nine": 63,
+            "seventy": 9,
+            "sound": 6
+        },
+        "total_count": 144,
+        "TF_scores": {
+            "cage": 0.02843846949327818,
+            "dies": 0.000517063081695967,
+            "enchant": 0.000517063081695967,
+            "john": 0.0036194415718717684,
+            "minimalist": 0.001034126163391934,
+            "nine": 0.03257497414684592,
+            "seventy": 0.004653567735263702,
+            "sound": 0.0031023784901758012
+        }
+    },
+    {
+        "name": "73.txt",
+        "words_counting": {
+            "affection": 2,
+            "courage": 3,
+            "devotion": 1,
+            "leadership": 1,
+            "nation": 2,
+            "pershing": 92,
+            "personal": 3,
+            "troop": 15
+        },
+        "total_count": 119,
+        "TF_scores": {
+            "affection": 0.0006047777441790142,
+            "courage": 0.0009071666162685213,
+            "devotion": 0.0003023888720895071,
+            "leadership": 0.0003023888720895071,
+            "nation": 0.0006047777441790142,
+            "pershing": 0.027819776232234653,
+            "personal": 0.0009071666162685213,
+            "troop": 0.004535833081342607
+        }
+    },
+    {
+        "name": "74.txt",
+        "words_counting": {
+            "career": 3,
+            "gain": 5,
+            "peak": 1,
+            "taft": 88,
+            "usual": 3
+        },
+        "total_count": 100,
+        "TF_scores": {
+            "career": 0.0010104412260020209,
+            "gain": 0.001684068710003368,
+            "peak": 0.0003368137420006736,
+            "taft": 0.02963960929605928,
+            "usual": 0.0010104412260020209
+        }
+    },
+    {
+        "name": "75.txt",
+        "words_counting": {
+            "age": 2,
+            "dead": 3,
+            "hill": 80,
+            "home": 13,
+            "paul": 22,
+            "seven": 5,
+            "seventy": 4,
+            "st": 23
+        },
+        "total_count": 152,
+        "TF_scores": {
+            "age": 0.0007886435331230284,
+            "dead": 0.0011829652996845426,
+            "hill": 0.031545741324921134,
+            "home": 0.005126182965299685,
+            "paul": 0.008675078864353312,
+            "seven": 0.001971608832807571,
+            "seventy": 0.0015772870662460567,
+            "st": 0.009069400630914827
+        }
+    },
+    {
+        "name": "76.txt",
+        "words_counting": {
+            "author": 7,
+            "crusader": 2,
+            "dead": 1,
+            "justice": 5,
+            "ninety": 3,
+            "sinclair": 44,
+            "social": 12,
+            "upton": 7
+        },
+        "total_count": 81,
+        "TF_scores": {
+            "author": 0.003203661327231121,
+            "crusader": 0.0009153318077803204,
+            "dead": 0.0004576659038901602,
+            "justice": 0.002288329519450801,
+            "ninety": 0.0013729977116704805,
+            "sinclair": 0.020137299771167048,
+            "social": 0.005491990846681922,
+            "upton": 0.003203661327231121
+        }
+    },
+    {
+        "name": "77.txt",
+        "words_counting": {
+            "dies": 1,
+            "eighty": 4,
+            "henry": 7,
+            "home": 4,
+            "island": 3,
+            "long": 6,
+            "stimson": 64,
+            "three": 10
+        },
+        "total_count": 99,
+        "TF_scores": {
+            "dies": 0.0004911591355599214,
+            "eighty": 0.0019646365422396855,
+            "henry": 0.00343811394891945,
+            "home": 0.0019646365422396855,
+            "island": 0.0014734774066797642,
+            "long": 0.0029469548133595285,
+            "stimson": 0.03143418467583497,
+            "three": 0.004911591355599214
+        }
+    },
+    {
+        "name": "78.txt",
+        "words_counting": {
+            "dies": 1,
+            "horowitz": 45,
+            "piano": 11,
+            "titan": 1,
+            "vladimir": 3
+        },
+        "total_count": 61,
+        "TF_scores": {
+            "dies": 0.0005379236148466917,
+            "horowitz": 0.02420656266810113,
+            "piano": 0.005917159763313609,
+            "titan": 0.0005379236148466917,
+            "vladimir": 0.0016137708445400753
+        }
+    },
+    {
+        "name": "79.txt",
+        "words_counting": {
+            "abroad": 2,
+            "gandhi": 64,
+            "home": 4,
+            "indian": 11,
+            "leader": 7,
+            "mohandas": 3
+        },
+        "total_count": 91,
+        "TF_scores": {
+            "abroad": 0.0008216926869350862,
+            "gandhi": 0.02629416598192276,
+            "home": 0.0016433853738701725,
+            "indian": 0.0045193097781429745,
+            "leader": 0.002875924404272802,
+            "mohandas": 0.0012325390304026294
+        }
+    },
+    {
+        "name": "80.txt",
+        "words_counting": {
+            "admire": 2,
+            "called": 5,
+            "first": 22,
+            "lady": 9,
+            "mrs": 50,
+            "often": 3,
+            "roosevelt": 55,
+            "twelve": 3,
+            "woman": 3,
+            "world": 11,
+            "year": 25
+        },
+        "total_count": 188,
+        "TF_scores": {
+            "admire": 0.000946521533364884,
+            "called": 0.00236630383341221,
+            "first": 0.010411736867013724,
+            "lady": 0.004259346900141978,
+            "mrs": 0.023663038334122102,
+            "often": 0.001419782300047326,
+            "roosevelt": 0.02602934216753431,
+            "twelve": 0.001419782300047326,
+            "woman": 0.001419782300047326,
+            "world": 0.005205868433506862,
+            "year": 0.011831519167061051
+        }
+    },
+    {
+        "name": "81.txt",
+        "words_counting": {
+            "david": 2,
+            "dwight": 2,
+            "eisenhower": 30,
+            "leader": 2,
+            "peace": 7,
+            "war": 8
+        },
+        "total_count": 51,
+        "TF_scores": {
+            "david": 0.00088261253309797,
+            "dwight": 0.00088261253309797,
+            "eisenhower": 0.01323918799646955,
+            "leader": 0.00088261253309797,
+            "peace": 0.003089143865842895,
+            "war": 0.00353045013239188
+        }
+    },
+    {
+        "name": "82.txt",
+        "words_counting": {
+            "canada": 13,
+            "dashing": 2,
+            "dead": 1,
+            "eighty": 10,
+            "fighter": 1,
+            "pierre": 8,
+            "trudeau": 36
+        },
+        "total_count": 71,
+        "TF_scores": {
+            "canada": 0.006625891946992864,
+            "dashing": 0.0010193679918450561,
+            "dead": 0.0005096839959225281,
+            "eighty": 0.0050968399592252805,
+            "fighter": 0.0005096839959225281,
+            "pierre": 0.004077471967380225,
+            "trudeau": 0.01834862385321101
+        }
+    },
+    {
+        "name": "83.txt",
+        "words_counting": {
+            "dead": 1,
+            "dewey": 48,
+            "dr": 38,
+            "john": 8,
+            "liberal": 5,
+            "ninety": 11,
+            "noted": 1,
+            "philosopher": 8,
+            "two": 8
+        },
+        "total_count": 128,
+        "TF_scores": {
+            "dead": 0.000505050505050505,
+            "dewey": 0.024242424242424242,
+            "dr": 0.01919191919191919,
+            "john": 0.00404040404040404,
+            "liberal": 0.0025252525252525255,
+            "ninety": 0.005555555555555556,
+            "noted": 0.000505050505050505,
+            "philosopher": 0.00404040404040404,
+            "two": 0.00404040404040404
+        }
+    },
+    {
+        "name": "84.txt",
+        "words_counting": {
+            "art": 31,
+            "force": 3,
+            "great": 7,
+            "picasso": 106,
+            "prodigious": 2,
+            "protean": 2,
+            "seventy": 6,
+            "single": 7,
+            "year": 29
+        },
+        "total_count": 193,
+        "TF_scores": {
+            "art": 0.006742061765985211,
+            "force": 0.0006524575902566333,
+            "great": 0.0015224010439321444,
+            "picasso": 0.023053501522401043,
+            "prodigious": 0.00043497172683775554,
+            "protean": 0.00043497172683775554,
+            "seventy": 0.0013049151805132667,
+            "single": 0.0015224010439321444,
+            "year": 0.006307090039147456
+        }
+    },
+    {
+        "name": "85.txt",
+        "words_counting": {
+            "aside": 3,
+            "chiang": 79,
+            "kai": 6,
+            "leader": 5,
+            "life": 10,
+            "revolution": 3,
+            "shek": 6,
+            "thrust": 2
+        },
+        "total_count": 114,
+        "TF_scores": {
+            "aside": 0.0008995502248875562,
+            "chiang": 0.02368815592203898,
+            "kai": 0.0017991004497751124,
+            "leader": 0.0014992503748125937,
+            "life": 0.0029985007496251873,
+            "revolution": 0.0008995502248875562,
+            "shek": 0.0017991004497751124,
+            "thrust": 0.0005997001499250374
+        }
+    },
+    {
+        "name": "86.txt",
+        "words_counting": {
+            "boy": 3,
+            "farm": 7,
+            "hard": 102,
+            "rose": 1,
+            "work": 8
+        },
+        "total_count": 121,
+        "TF_scores": {
+            "boy": 0.0008891523414344991,
+            "farm": 0.002074688796680498,
+            "hard": 0.03023117960877297,
+            "rose": 0.0002963841138114997,
+            "work": 0.0023710729104919974
+        }
+    },
+    {
+        "name": "87.txt",
+        "words_counting": {
+            "brilliant": 4,
+            "career": 2,
+            "one": 31,
+            "pattons": 8
+        },
+        "total_count": 45,
+        "TF_scores": {
+            "brilliant": 0.002416918429003021,
+            "career": 0.0012084592145015106,
+            "one": 0.018731117824773415,
+            "pattons": 0.004833836858006042
+        }
+    },
+    {
+        "name": "88.txt",
+        "words_counting": {
+            "cautious": 2,
+            "death": 6,
+            "king": 98,
+            "risk": 5,
+            "straddle": 2,
+            "took": 8,
+            "two": 14,
+            "world": 5
+        },
+        "total_count": 140,
+        "TF_scores": {
+            "cautious": 0.0006640106241699867,
+            "death": 0.00199203187250996,
+            "king": 0.03253652058432935,
+            "risk": 0.0016600265604249668,
+            "straddle": 0.0006640106241699867,
+            "took": 0.0026560424966799467,
+            "two": 0.004648074369189907,
+            "world": 0.0016600265604249668
+        }
+    },
+    {
+        "name": "89.txt",
+        "words_counting": {
+            "assassination": 2,
+            "born": 4,
+            "force": 5,
+            "gandhi": 80,
+            "imprint": 1,
+            "india": 30,
+            "indira": 10,
+            "leader": 9,
+            "left": 2,
+            "politics": 6
+        },
+        "total_count": 149,
+        "TF_scores": {
+            "assassination": 0.0004836759371221282,
+            "born": 0.0009673518742442564,
+            "force": 0.0012091898428053204,
+            "gandhi": 0.019347037484885126,
+            "imprint": 0.0002418379685610641,
+            "india": 0.007255139056831923,
+            "indira": 0.0024183796856106408,
+            "leader": 0.002176541717049577,
+            "left": 0.0004836759371221282,
+            "politics": 0.0014510278113663846
+        }
+    },
+    {
+        "name": "90.txt",
+        "words_counting": {
+            "attorney": 6,
+            "francis": 4,
+            "frontier": 2,
+            "general": 8,
+            "heir": 3,
+            "kennedy": 42,
+            "new": 12,
+            "robert": 16,
+            "senator": 12
+        },
+        "total_count": 105,
+        "TF_scores": {
+            "attorney": 0.0029225523623964927,
+            "francis": 0.001948368241597662,
+            "frontier": 0.000974184120798831,
+            "general": 0.003896736483195324,
+            "heir": 0.0014612761811982464,
+            "kennedy": 0.020457866536775452,
+            "new": 0.0058451047247929854,
+            "robert": 0.007793472966390648,
+            "senator": 0.0058451047247929854
+        }
+    },
+    {
+        "name": "91.txt",
+        "words_counting": {
+            "de": 88,
+            "france": 60,
+            "gaulle": 72,
+            "greatness": 3,
+            "lead": 10,
+            "rally": 9,
+            "strove": 2,
+            "war": 28
+        },
+        "total_count": 272,
+        "TF_scores": {
+            "de": 0.02315180215732702,
+            "france": 0.01578531965272297,
+            "gaulle": 0.018942383583267563,
+            "greatness": 0.0007892659826361484,
+            "lead": 0.002630886608787161,
+            "rally": 0.0023677979479084454,
+            "strove": 0.0005261773217574323,
+            "war": 0.007366482504604052
+        }
+    },
+    {
+        "name": "92.txt",
+        "words_counting": {
+            "bobbin": 2,
+            "boy": 9,
+            "carnegie": 52,
+            "start": 3
+        },
+        "total_count": 66,
+        "TF_scores": {
+            "bobbin": 0.0008200082000820008,
+            "boy": 0.0036900369003690036,
+            "carnegie": 0.02132021320213202,
+            "start": 0.0012300123001230013
+        }
+    },
+    {
+        "name": "93.txt",
+        "words_counting": {
+            "charles": 13,
+            "creator": 5,
+            "dies": 2,
+            "peanut": 37,
+            "schulz": 60,
+            "seven": 9,
+            "seventy": 11
+        },
+        "total_count": 137,
+        "TF_scores": {
+            "charles": 0.00401854714064915,
+            "creator": 0.0015455950540958269,
+            "dies": 0.0006182380216383308,
+            "peanut": 0.01143740340030912,
+            "schulz": 0.01854714064914992,
+            "seven": 0.0027820710973724882,
+            "seventy": 0.0034003091190108192
+        }
+    },
+    {
+        "name": "94.txt",
+        "words_counting": {
+            "churchill": 66,
+            "dies": 1,
+            "home": 12,
+            "london": 3,
+            "ninety": 12
+        },
+        "total_count": 94,
+        "TF_scores": {
+            "churchill": 0.01929260450160772,
+            "dies": 0.00029231218941829873,
+            "home": 0.0035077462730195848,
+            "london": 0.0008769365682548962,
+            "ninety": 0.0035077462730195848
+        }
+    },
+    {
+        "name": "95.txt",
+        "words_counting": {
+            "attack": 2,
+            "calla": 28,
+            "dead": 1,
+            "fifty": 7,
+            "heart": 2,
+            "maria": 8,
+            "paris": 3,
+            "three": 6
+        },
+        "total_count": 57,
+        "TF_scores": {
+            "attack": 0.0011547344110854503,
+            "calla": 0.016166281755196306,
+            "dead": 0.0005773672055427252,
+            "fifty": 0.0040415704387990765,
+            "heart": 0.0011547344110854503,
+            "maria": 0.004618937644341801,
+            "paris": 0.0017321016166281756,
+            "three": 0.003464203233256351
+        }
+    },
+    {
+        "name": "96.txt",
+        "words_counting": {
+            "civil": 11,
+            "crucible": 1,
+            "forged": 1,
+            "francos": 12,
+            "hand": 4,
+            "iron": 1,
+            "modern": 3,
+            "spain": 21,
+            "war": 21
+        },
+        "total_count": 75,
+        "TF_scores": {
+            "civil": 0.004300234558248631,
+            "crucible": 0.00039093041438623924,
+            "forged": 0.00039093041438623924,
+            "francos": 0.004691164972634871,
+            "hand": 0.001563721657544957,
+            "iron": 0.00039093041438623924,
+            "modern": 0.0011727912431587178,
+            "spain": 0.008209538702111024,
+            "war": 0.008209538702111024
+        }
+    },
+    {
+        "name": "97.txt",
+        "words_counting": {
+            "decade": 1,
+            "democratic": 11,
+            "dies": 1,
+            "eighty": 14,
+            "house": 28,
+            "jr": 3,
+            "one": 35,
+            "oneill": 56,
+            "power": 10,
+            "thomas": 5
+        },
+        "total_count": 164,
+        "TF_scores": {
+            "decade": 0.0005614823133071309,
+            "democratic": 0.006176305446378439,
+            "dies": 0.0005614823133071309,
+            "eighty": 0.007860752386299831,
+            "house": 0.015721504772599662,
+            "jr": 0.0016844469399213925,
+            "one": 0.019651880965749578,
+            "oneill": 0.031443009545199324,
+            "power": 0.005614823133071308,
+            "thomas": 0.002807411566535654
+        }
+    },
+    {
+        "name": "98.txt",
+        "words_counting": {
+            "city": 35,
+            "dead": 2,
+            "guardia": 61,
+            "homage": 1,
+            "la": 74,
+            "mayor": 65,
+            "pay": 2,
+            "time": 17
+        },
+        "total_count": 257,
+        "TF_scores": {
+            "city": 0.010441527446300716,
+            "dead": 0.0005966587112171838,
+            "guardia": 0.018198090692124105,
+            "homage": 0.0002983293556085919,
+            "la": 0.0220763723150358,
+            "mayor": 0.019391408114558473,
+            "pay": 0.0005966587112171838,
+            "time": 0.005071599045346062
+        }
+    },
+    {
+        "name": "99.txt",
+        "words_counting": {
+            "dies": 1,
+            "eighty": 22,
+            "frank": 8,
+            "matchless": 2,
+            "pop": 15,
+            "sinatra": 77,
+            "stylist": 1,
+            "two": 20
+        },
+        "total_count": 146,
+        "TF_scores": {
+            "dies": 0.0002628811777076761,
+            "eighty": 0.0057833859095688745,
+            "frank": 0.002103049421661409,
+            "matchless": 0.0005257623554153522,
+            "pop": 0.003943217665615142,
+            "sinatra": 0.02024185068349106,
+            "stylist": 0.0002628811777076761,
+            "two": 0.005257623554153523
+        }
+    },
+    {
+        "name": "100.txt",
+        "words_counting": {
+            "amass": 2,
+            "billion": 6,
+            "dead": 1,
+            "eighty": 5,
+            "getty": 62,
+            "oil": 39,
+            "paul": 13,
+            "three": 20
+        },
+        "total_count": 148,
+        "TF_scores": {
+            "amass": 0.0008460236886632825,
+            "billion": 0.0025380710659898475,
+            "dead": 0.00042301184433164127,
+            "eighty": 0.0021150592216582064,
+            "getty": 0.02622673434856176,
+            "oil": 0.01649746192893401,
+            "paul": 0.005499153976311337,
+            "three": 0.008460236886632826
+        }
+    },
+    {
+        "name": "101.txt",
+        "words_counting": {
+            "builder": 7,
+            "dead": 1,
+            "master": 2,
+            "mos": 122,
+            "ninety": 3,
+            "robert": 10,
+            "two": 16
+        },
+        "total_count": 161,
+        "TF_scores": {
+            "builder": 0.0021328458257160268,
+            "dead": 0.0003046922608165753,
+            "master": 0.0006093845216331506,
+            "mos": 0.03717245581962218,
+            "ninety": 0.0009140767824497258,
+            "robert": 0.0030469226081657527,
+            "two": 0.004875076173065204
+        }
+    },
+    {
+        "name": "102.txt",
+        "words_counting": {
+            "advance": 1,
+            "attempt": 3,
+            "brezhnev": 63,
+            "consensus": 1,
+            "detente": 10,
+            "domestic": 5,
+            "goal": 1,
+            "issues": 3,
+            "leader": 10,
+            "politburo": 13,
+            "soviet": 76,
+            "used": 2
+        },
+        "total_count": 188,
+        "TF_scores": {
+            "advance": 0.00030321406913280777,
+            "attempt": 0.0009096422073984233,
+            "brezhnev": 0.01910248635536689,
+            "consensus": 0.00030321406913280777,
+            "detente": 0.0030321406913280777,
+            "domestic": 0.0015160703456640388,
+            "goal": 0.00030321406913280777,
+            "issues": 0.0009096422073984233,
+            "leader": 0.0030321406913280777,
+            "politburo": 0.003941782898726501,
+            "soviet": 0.02304426925409339,
+            "used": 0.0006064281382656155
+        }
+    },
+    {
+        "name": "103.txt",
+        "words_counting": {
+            "czarist": 3,
+            "mighty": 1,
+            "oppression": 1,
+            "rose": 2,
+            "russia": 8,
+            "socialist": 2,
+            "stalin": 47,
+            "state": 4,
+            "transform": 1
+        },
+        "total_count": 69,
+        "TF_scores": {
+            "czarist": 0.0016675931072818232,
+            "mighty": 0.0005558643690939411,
+            "oppression": 0.0005558643690939411,
+            "rose": 0.0011117287381878821,
+            "russia": 0.0044469149527515284,
+            "socialist": 0.0011117287381878821,
+            "stalin": 0.02612562534741523,
+            "state": 0.0022234574763757642,
+            "transform": 0.0005558643690939411
+        }
+    },
+    {
+        "name": "104.txt",
+        "words_counting": {
+            "anwar": 4,
+            "arab": 15,
+            "daring": 2,
+            "el": 7,
+            "israel": 29,
+            "peace": 18,
+            "pioneer": 1,
+            "sadat": 71
+        },
+        "total_count": 147,
+        "TF_scores": {
+            "anwar": 0.001234949058351343,
+            "arab": 0.004631058968817536,
+            "daring": 0.0006174745291756715,
+            "el": 0.00216116085211485,
+            "israel": 0.008953380673047236,
+            "peace": 0.005557270762581044,
+            "pioneer": 0.00030873726458783575,
+            "sadat": 0.021920345785736338
+        }
+    },
+    {
+        "name": "105.txt",
+        "words_counting": {
+            "chinese": 63,
+            "father": 8,
+            "mao": 171,
+            "revolution": 38,
+            "tse": 8,
+            "tung": 7
+        },
+        "total_count": 295,
+        "TF_scores": {
+            "chinese": 0.008879492600422832,
+            "father": 0.001127554615926709,
+            "mao": 0.024101479915433405,
+            "revolution": 0.005355884425651868,
+            "tse": 0.001127554615926709,
+            "tung": 0.0009866102889358704
+        }
+    },
+    {
+        "name": "106.txt",
+        "words_counting": {
+            "andrew": 9,
+            "dead": 1,
+            "johnson": 18
+        },
+        "total_count": 28,
+        "TF_scores": {
+            "andrew": 0.0052173913043478265,
+            "dead": 0.0005797101449275362,
+            "johnson": 0.010434782608695653
+        }
+    },
+    {
+        "name": "107.txt",
+        "words_counting": {
+            "alfred": 6,
+            "dies": 1,
+            "governor": 56,
+            "seventy": 6,
+            "smith": 67,
+            "time": 20
+        },
+        "total_count": 156,
+        "TF_scores": {
+            "alfred": 0.0022522522522522522,
+            "dies": 0.00037537537537537537,
+            "governor": 0.021021021021021023,
+            "seventy": 0.0022522522522522522,
+            "smith": 0.02515015015015015,
+            "time": 0.0075075075075075074
+        }
+    }
+]
