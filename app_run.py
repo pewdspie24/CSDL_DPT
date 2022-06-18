@@ -25,7 +25,7 @@ class MainProcess():
     def __init__(self):
         self.data = pd.read_csv('metadata/final_1.csv')
         self.filenames = self.data['filename'].to_list()
-        self.years = self.data['filename'].to_list()
+        self.years = self.data['years'].to_list()
         self.titles = self.data['title'].to_list()
 
         with open('extracted_data/processed_text.data', 'rb') as f:
@@ -175,7 +175,7 @@ class MainProcess():
         out = np.array(d_cosines).argsort()[-k:][::-1]
         for idx in out:
             result.append([self.filenames[idx], self.titles[idx],
-'%.3f' % (round(d_cosines[idx], 5)*100)])
+                           '%.3f' % (round(d_cosines[idx], 5)*100)])
             # print(self.filenames[idx], end=" ")
         return result
 
