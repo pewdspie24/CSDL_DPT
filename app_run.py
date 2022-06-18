@@ -160,7 +160,7 @@ class MainProcess():
                                key=lambda x: x[1], reverse=True)
         for i in query_weights[:k]:
             result.append(
-                [self.filenames[i[0]], self.titles[i[0]], round(i[1], 5)*100])
+                [self.filenames[i[0]], self.titles[i[0]], '%.3f' % (round(i[1], 5)*100)])
         return result
 
     def cosine_similarity(self, k, query):
@@ -174,7 +174,8 @@ class MainProcess():
             d_cosines.append(self.cosine_sim(query_vector, d))
         out = np.array(d_cosines).argsort()[-k:][::-1]
         for idx in out:
-            result.append([self.filenames[idx], self.titles[idx], round(d_cosines[idx], 5)*100])
+            result.append([self.filenames[idx], self.titles[idx],
+'%.3f' % (round(d_cosines[idx], 5)*100)])
             # print(self.filenames[idx], end=" ")
         return result
 
