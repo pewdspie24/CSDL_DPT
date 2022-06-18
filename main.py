@@ -127,7 +127,7 @@ class Ui_MainWindow(object):
             QtWidgets.QTableWidget.NoEditTriggers)
         self.a = Form()
         self.backend()
-
+    
     def backend(self):
         self.pushButton.clicked.connect(self.search)
 
