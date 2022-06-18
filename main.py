@@ -9,6 +9,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+from dialog import Ui_Dialog as Form
 import app_run
 
 my_module = app_run.MainProcess()
@@ -135,28 +136,23 @@ class Ui_MainWindow(object):
         cos_seg = my_module.cosine_similarity(k=10, query=sentence)
         self.Matching_Table.setRowCount(10)
         self.Cosine_Table.setRowCount(10)
-        print(cos_seg)
-        # Check cos_seg
-        # Thêm score vào
-        if len(matching_seq) == 0 and len(cos_seg) == 0:
-            MainDialog = QtWidgets.QDialog()
-            ui_dia = Ui_Dialog()
-            ui_dia.setupUi(Ui_Dialog)
-            MainDialog.show()
+        # Check dialog
+        if len(matching_seq) == 0 or len(cos_seg) == 0:
+            a = Form()
+            a.open_app()
         for i in range(len(matching_seq)):
             self.Matching_Table.setItem(
                 i, 0, QtWidgets.QTableWidgetItem(matching_seq[i][0]))
-            print(matching_seq[i][0])
             self.Matching_Table.setItem(
                 i, 1, QtWidgets.QTableWidgetItem(matching_seq[i][1]))
             self.Matching_Table.setItem(
-                i, 2, QtWidgets.QTableWidgetItem(matching_seq[i][2]))
+                i, 2, QtWidgets.QTableWidgetItem(str(matching_seq[i][2])))
             self.Cosine_Table.setItem(
                 i, 0, QtWidgets.QTableWidgetItem(cos_seg[i][0]))
             self.Cosine_Table.setItem(
                 i, 1, QtWidgets.QTableWidgetItem(cos_seg[i][1]))
             self.Cosine_Table.setItem(
-                i, 2, QtWidgets.QTableWidgetItem(cos_seg[i][2]))
+                i, 2, QtWidgets.QTableWidgetItem(str(cos_seg[i][2])))
 
 
 class Ui_Dialog(object):

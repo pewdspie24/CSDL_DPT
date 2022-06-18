@@ -158,11 +158,9 @@ class MainProcess():
 
         query_weights = sorted(query_weights.items(),
                                key=lambda x: x[1], reverse=True)
-        l = []
         for i in query_weights[:k]:
-            l.append([self.filenames[i[0]], self.titles[i[0]]])
-        for idx, i in enumerate(l):
-            result.append([idx+1, i[0], i[1]])
+            result.append(
+                [self.filenames[i[0]], self.titles[i[0]], round(i[1], 5)*100])
         return result
 
     def cosine_similarity(self, k, query):
@@ -176,13 +174,13 @@ class MainProcess():
             d_cosines.append(self.cosine_sim(query_vector, d))
         out = np.array(d_cosines).argsort()[-k:][::-1]
         for idx in out:
-            result.append([idx+1, self.filenames[idx], self.titles[idx]])
+            result.append([self.filenames[idx], self.titles[idx], round(d_cosines[idx], 5)*100])
             # print(self.filenames[idx], end=" ")
         return result
 
 
 if __name__ == "__main__":
     process = MainProcess()
-    process.matching_score(10, "Ho Chi Minh the Greatest General")
+    # process.matching_score(10, "Ho Chi Minh the Greatest General")
 
     process.cosine_similarity(10, "Ho Chi Minh the Greatest General")

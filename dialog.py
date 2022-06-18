@@ -33,3 +33,15 @@ class Ui_Dialog(object):
         Dialog.setWindowTitle(_translate("Dialog", "Dialog"))
         self.label.setText(_translate("Dialog", "Not Found!"))
         self.pushButton.setText(_translate("Dialog", "OK!"))
+        self.pushButton.clicked.connect(self.close_app)
+    
+    def open_app(self):
+        self.dialog = QtWidgets.QDialog()
+        self.dialog.ui = Ui_Dialog()
+        self.dialog.ui.setupUi(self.dialog)
+        self.dialog.exec_()
+        self.dialog.show()
+    
+    def close_app(self):
+        self.dialog.close()
+        
